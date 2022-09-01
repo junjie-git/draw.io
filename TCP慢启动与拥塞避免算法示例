@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T10:28:50.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="r_ecRh_e5Ub2rPxwmpQK" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T10:53:17.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dwvtkOjkExd4FdddDx5x" version="20.2.7" type="github">
   <diagram id="UnYbVRI0ZWW7nnTgy6sY" name="第 1 页">
-    <mxGraphModel dx="543" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,8 +208,14 @@
         <mxCell id="_XooWgy_Kj3Vzr-OZina-65" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="20" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-172" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="_XooWgy_Kj3Vzr-OZina-66" target="_XooWgy_Kj3Vzr-OZina-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_XooWgy_Kj3Vzr-OZina-66" value="12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="470.5" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-169" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="_XooWgy_Kj3Vzr-OZina-67" target="_XooWgy_Kj3Vzr-OZina-168">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_XooWgy_Kj3Vzr-OZina-67" value="16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="430.5" width="20" height="19" as="geometry" />
@@ -411,6 +417,65 @@
             <mxPoint x="850" y="429" as="sourcePoint" />
             <mxPoint x="870" y="420.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-152" value="网络拥塞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-153" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="313.5" as="sourcePoint" />
+            <mxPoint x="705" y="353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-158" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=63;" vertex="1" parent="1">
+          <mxGeometry x="608.77" y="299.86" width="10" height="179.52" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-159" value="拥塞避免" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=335;" vertex="1" parent="1">
+          <mxGeometry x="570" y="355.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-160" value="拥塞避免" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=335;" vertex="1" parent="1">
+          <mxGeometry x="570" y="355.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-162" value="拥塞避免" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=335;" vertex="1" parent="1">
+          <mxGeometry x="755" y="405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-165" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="_XooWgy_Kj3Vzr-OZina-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-163" value="慢启动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-164" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_XooWgy_Kj3Vzr-OZina-163">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="520" as="sourcePoint" />
+            <mxPoint x="530" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-168" value="Threshold初始值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430.5" width="60" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-171" value="Threshold更新值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470.5" width="60" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-173" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#3333FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="239.68" as="sourcePoint" />
+            <mxPoint x="820" y="239.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-177" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="269.68" as="sourcePoint" />
+            <mxPoint x="820" y="269.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-180" value="&lt;span style=&quot;&quot;&gt;快速恢复（TCP Reno）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="823" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_XooWgy_Kj3Vzr-OZina-181" value="&lt;span style=&quot;&quot;&gt;计时器超时（TCP Tahoe）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="260" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
