@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T16:30:52.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="Uo40mm43mpLb_idlP_Vv" type="github"><diagram id="56gV_qgl1uUCzVl8JlDk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-02T16:35:46.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hhDC_Do4jlKljoXRmEKI" version="20.2.7" type="github">
+  <diagram id="56gV_qgl1uUCzVl8JlDk" name="第 1 页">
+    <mxGraphModel dx="2167" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-30" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="240" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-900" y="292.13" as="sourcePoint" />
+            <mxPoint x="-830" y="292.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqSH1Z82l5D2XLnFkJp-32" target="0KqSH1Z82l5D2XLnFkJp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-32" value="线路端接" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="275" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqSH1Z82l5D2XLnFkJp-33" target="0KqSH1Z82l5D2XLnFkJp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-33" value="数据链路处理&lt;br&gt;（协议、拆封）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-685" y="275" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqSH1Z82l5D2XLnFkJp-35" target="0KqSH1Z82l5D2XLnFkJp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-35" value="查找、转发、排队" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="275" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqSH1Z82l5D2XLnFkJp-37" value="交换结构" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="252.5" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
