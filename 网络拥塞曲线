@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T01:19:40.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yBmYh_OFffiUzbXYUzSp" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T01:21:37.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_KN2_UQ9faVT5kY2eK54" version="20.2.8" type="github">
   <diagram id="kDtdOKrvP5erk0GM7tkU" name="第 1 页">
     <mxGraphModel dx="1088" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,21 @@
         </mxCell>
         <mxCell id="E6J31Oxu0J-pnhamv-UF-20" value="崖点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6J31Oxu0J-pnhamv-UF-21" value="吞吐量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6J31Oxu0J-pnhamv-UF-22" value="响应时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="15" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6J31Oxu0J-pnhamv-UF-23" value="负载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="445" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6J31Oxu0J-pnhamv-UF-24" value="吞吐量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6J31Oxu0J-pnhamv-UF-25" value="响应时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="330" y="195" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
