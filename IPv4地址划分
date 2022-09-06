@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T15:04:18.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1QA0Orx6V6kq50NqUrtH" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T15:05:32.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CdEQc5f-JkHrb4QwV1kr" version="20.2.7" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="378" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,6 +267,21 @@
         </mxCell>
         <mxCell id="xSXebBnt8XRrhyOr7-V_-833" value="1" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-20" width="19.17" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSXebBnt8XRrhyOr7-V_-834" value="A类地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSXebBnt8XRrhyOr7-V_-835" value="B类地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSXebBnt8XRrhyOr7-V_-836" value="C类地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSXebBnt8XRrhyOr7-V_-837" value="D类地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSXebBnt8XRrhyOr7-V_-838" value="E类地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
