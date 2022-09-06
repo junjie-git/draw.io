@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T15:14:36.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="A0jdtZMrbNG5tlQnxEFG" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T15:15:46.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="XORkgbabcrlVX6rvW1pB" version="20.2.7" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="918" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="xSXebBnt8XRrhyOr7-V_-843" value="240.0.0.0 ~ 255.255.255.255" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1690" y="-15" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSXebBnt8XRrhyOr7-V_-844" value="IP地址范围" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="-340" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
