@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T13:39:08.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="h2UNBIauxWiTTFyaKRFg" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T13:40:09.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xkbwZNGbjW0Q1bOOPeW7" version="20.2.8" type="github">
   <diagram id="SyDECEWcTAvGz7LoxwN5" name="第 1 页">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -83,6 +83,15 @@
         </mxCell>
         <mxCell id="bFSwAFgDnL8n1xBtv6Jh-20" value="跳数限制（8位）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFSwAFgDnL8n1xBtv6Jh-21" value="源IP地址（128位）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="236" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bFSwAFgDnL8n1xBtv6Jh-22" value="目的IP地址（128位）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="295" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bFSwAFgDnL8n1xBtv6Jh-23" value="数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
